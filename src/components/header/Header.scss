@@ -1,0 +1,14 @@
+@import "../../scss/variables";
+
+.header {
+  text-align: center;
+  margin: 1rem;
+  padding: 0.5rem;
+  .text-shadow{
+    color: $secondaryColor;
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 0.2rem;
+  }
+}
