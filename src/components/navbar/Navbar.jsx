@@ -7,6 +7,13 @@ const Navbar = () => {
       <div className="logo">
         <img src={logo} alt="horoscope" />
       </div>
+      <div className="links">
+        <a href="#horascope">Horoscope</a>
+        <a href="#detail">Detail</a>
+        <a href="#tarot">Tarot</a>
+        <a href="#article">Article</a>
+        <a href="#contact">Contact</a>
+      </div>
     </div>
   );
 };
