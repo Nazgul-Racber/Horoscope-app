@@ -1,8 +1,6 @@
-import React from "react";
-
 const Card = ({ title, date, image, desc }) => {
-  // console.log("ne geliyor", props);
-  // const { title, date, image, desc } = props;
+  //   console.log("ne geliyor", props);
+  //   const { title, date, image, desc } = props;
   return (
     <div className="cards">
       <div className="title">
@@ -11,12 +9,11 @@ const Card = ({ title, date, image, desc }) => {
       <div className="date">
         <h2>{date}</h2>
       </div>
-      <img src="{image}" alt="" />
+      <img src={image} alt="" />
       <div className="card-over">
         <p>{desc}</p>
       </div>
     </div>
   );
 };
-
 export default Card;
