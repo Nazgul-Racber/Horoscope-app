@@ -1,5 +1,6 @@
 ## Project: Horoscope-app
-## Output
+## Demo
+[Live](https://horoscope-app-naz.netlify.app/)
 
 <img src="./horoscope-app.gif" alt="horoscope">
 
