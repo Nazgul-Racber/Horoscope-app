@@ -4,6 +4,6 @@
 ## Output
 <img src="./src/assets/horoscope.png" alt="horoscope">
 
-![horoscope](./horoscope-app.gif)
+![horoscope]()
 ## Description
 Project aims to create a horoscope app.
